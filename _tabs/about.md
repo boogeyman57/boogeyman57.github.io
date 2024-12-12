@@ -15,7 +15,7 @@ Over time, that spark faded, but it wasn’t gone. During my bachelor's program,
 After completing my undergraduate studies, I decided to take my passion to the next level. I moved to the United States to pursue a master’s degree in cybersecurity. It was a transformative experience that allowed me to explore advanced concepts, work on exciting projects, and deepen my understanding of the field.
 
 The Present
-Today, I’m working as a Cybersecurity Engineer at a large insurance company. In my role, I focus on protecting critical systems, ensuring compliance, and mitigating risks to safeguard sensitive data. Every day presents new challenges, and I love solving puzzles that help strengthen the organization’s defenses.
+Today, I’m working as a Cybersecurity Engineer at a large insurance company. In my role, I focus on protecting critical systems, ensuring compliance, and mitigating risks to safeguard sensitive data. Each day offers fresh challenges, and I find great satisfaction in solving complex puzzles that enhance the organization’s security posture.
 
 The Future
 Looking ahead, I’m excited to further specialize as a Purple Teamer, bridging the gap between offensive and defensive cybersecurity. I’m also deeply interested in threat hunting—actively seeking out vulnerabilities and hidden threats before they can cause damage. My ultimate goal is to stay on the cutting edge of cybersecurity, contributing to an organization’s resilience while continuously sharpening my skills. Beyond technical work, I hope to inspire and mentor others entering this dynamic field, helping them navigate their own cybersecurity journeys.
