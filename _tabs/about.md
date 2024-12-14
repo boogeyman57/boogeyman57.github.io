@@ -23,10 +23,9 @@ Looking ahead, I’m excited to further specialize as a Purple Teamer, bridging 
 
 
 ## Socials
-[Twitter](https://twitter.com/teja0072)
+[X](https://x.com/teja0072)
 
 [LinkedIn](https://www.linkedin.com/in/dharmateja-cyber/)
 
 [Infosec.exchange](https://infosec.exchange/@boogeyman57)
 
-[X](https://x.com/teja0072)
