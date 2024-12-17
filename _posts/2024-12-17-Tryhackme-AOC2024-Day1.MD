@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Tryhackme-AOC2024-Day1"
-categories: [AOC2024]
+categories: [Advent-of-Cyber-2024]
 tags: [TryHackMe, write-ups, AOC2024]
 
 ---
@@ -125,6 +125,7 @@ Real-world examples like **AlphaBay Admin Takedown** and **APT1 OPSEC failure
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*kWHMNdeQci2CbCgdyrIWIA.png)
 
 **2. What is the URL of the C2 server?**
+
 ![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*GAA8PONAIwvi6m5U1apjew.png)
 
 **3. Who is M.M.? Maybe his GitHub profile page would provide clues.**
