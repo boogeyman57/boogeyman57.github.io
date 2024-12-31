@@ -77,7 +77,7 @@ The NAT network functions as a private network with DHCP capabilities. It assign
 # Visual Representation
 Below is a simple diagram of the lab setup:
 
-![alt text](image.png)
+![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*qRqA4lcBa5Otpbe_2CcZig.png)
 
 
 
