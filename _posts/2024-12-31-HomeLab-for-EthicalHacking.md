@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "HomeLab for Ethical Hacking"
+title: "HomeLab-for-EthicalHacking"
 categories: [HomeLab]
 tags: [HomeLab, Ehical Hacking, Penetration Testing]
 
