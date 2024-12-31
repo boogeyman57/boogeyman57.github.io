@@ -77,17 +77,7 @@ The NAT network functions as a private network with DHCP capabilities. It assign
 # Visual Representation
 Below is a simple diagram of the lab setup:
 
-+-----------------------------------------------------------------------+
-|                                                                       |
-|                      ExampleCorpNet (Private Network)                 |
-|                      CIDR: 10.10.10.0/24                              |
-|                                                                       |
-|   +-----------------+     +-----------------+     +-----------------+ |
-|   | Kali Linux      |-----|    TestLab      |-----|      SBVA       | |
-|   | (10.10.10.10)   |     | (10.10.10.15)   |     | (10.10.10.101)  | |
-|   +-----------------+     +-----------------+     +-----------------+ |
-|                                                                       |
-+-----------------------------------------------------------------------+
+![alt text](image.png)
 
 
 
