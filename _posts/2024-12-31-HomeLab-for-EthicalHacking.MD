@@ -2,7 +2,7 @@
 layout: "post"
 title: "HomeLab-for-EthicalHacking"
 categories: [HomeLab]
-tags: [HomeLab, Ehical Hacking, Penetration Testing]
+tags: [HomeLab, Ehical Hacking, Penetration Testing, Red Team]
 
 ---
 
