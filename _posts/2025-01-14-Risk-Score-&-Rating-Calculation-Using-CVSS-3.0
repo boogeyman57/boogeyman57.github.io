@@ -5,13 +5,14 @@ categories: [Cybersecurity, CVSS]
 tags: [CVSS, Nessus, Vulnerability-Management, Risk-Scoring]
 ---
 
-In the last write-up, we explored setting policies and scanning with **Nessus**. This time, let’s delve into calculating the **Risk Score** and **Rating** using the **Common Vulnerability Scoring System (CVSS) 3.0**.
+In the last write-up, we explored setting policies and scanning with **Nessus**. This time, let’s delve into calculating the **Risk Score** and **Rating** using the **Common Vulnerability Scoring System (CVSS) 3.0**
 
 # Types of CVSS Scores
 
 CVSS comprises three types of scores:
 
 1. **Base Score**
+
    This score is determined using **8 parameters** provided by the vendor or a reputable risk-rating agency:
    - Attack Vector
    - Attack Complexity
@@ -23,12 +24,14 @@ CVSS comprises three types of scores:
    - Availability Impact
 
 2. **Temporal Score**
+
    Time-specific variables affecting the vulnerability are factored here. These include:
    - Exploit Code Maturity
    - Remediation Level
    - Report Confidence
 
 3. **Environmental Score**
+
    This is influenced by specific factors in the user’s environment:
    - Eight Base Score parameters
    - Confidentiality Requirements
